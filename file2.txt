@@ -1,1 +1,4 @@
 Branch Feature2
+Text in File 2
+Text in File 2
+New Text in File 2
